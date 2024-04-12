@@ -7,6 +7,7 @@
   src: url(/assets/Rejouice-Headline.ttf);
 }
 * {
+  
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -76,4 +77,5 @@ nav h3 {
 }
 #page1-content h1 span {
   font-family: headline;
+  padding: 0px;
 }
